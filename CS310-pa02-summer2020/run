@@ -1,0 +1,19 @@
+#uncomment the lines below to try different examples
+#
+#example 1
+javac -cp .:json-simple-1.1.1.jar *.java; java -cp .:json-simple-1.1.1.jar  cs310pa2 -name name -keyword  price-nook -max 1200 ./json/animal-crossing.json
+#
+#example 2
+#javac -cp .:json-simple-1.1.1.jar *.java; java -cp .:json-simple-1.1.1.jar  cs310pa2 -name name -keyword moves -max 1200 json/pokemon.json
+#
+#example 3
+#
+#javac -cp .:json-simple-1.1.1.jar *.java; java -cp .:json-simple-1.1.1.jar  cs310pa2 -name title -keyword actors -max 1200 json/movies.json
+#
+#example 4
+#
+#javac -cp .:json-simple-1.1.1.jar *.java; java -cp .:json-simple-1.1.1.jar  cs310pa2 -name title -keyword genres -max 1200 json/movies.json
+#
+#example 5
+#javac -cp .:json-simple-1.1.1.jar *.java; java -cp .:json-simple-1.1.1.jar  cs310pa2 -name title -keyword tags -max 1200 ./json/tech-books.json
+#

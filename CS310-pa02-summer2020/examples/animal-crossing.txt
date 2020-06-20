@@ -1,0 +1,29 @@
+| =>  javac -cp .:json-simple-1.1.1.jar *.java; java -cp .:json-simple-1.1.1.jar  cs310pa2 -name name -keyword  price-nook -max 1200 ./json/animal-crossing.json
+Welcome to CS310 PA02: Tree Dictionary
+Read 160 records from ./json/animal-crossing.json
+Options:
+	f: find records
+	p: print the tree
+	q: quit
+> p
+> Tree Dictionary: {[10 (1)], [100 (1)], [1000 (7)], [10000 (7)], [1100 (1)], [120 (2)], [12000 (4)], [130 (4)], [1300 (3)], [13000 (1)], [1350 (1)], [140 (1)], [150 (1)], [1500 (3)], [15000 (6)], [160 (5)], [180 (2)], [1800 (2)], [192 (1)], [200 (8)], [2000 (4)], [230 (1)], [240 (1)], [2400 (2)], [250 (4)], [2500 (7)], [300 (9)], [3000 (8)], [320 (1)], [350 (1)], [3750 (1)], [3800 (1)], [400 (4)], [4000 (5)], [430 (2)], [450 (1)], [4500 (3)], [480 (1)], [500 (7)], [5000 (3)], [550 (1)], [5500 (1)], [60 (1)], [600 (5)], [6000 (3)], [650 (1)], [70 (1)], [700 (1)], [7000 (1)], [80 (1)], [800 (7)], [8000 (7)], [900 (2)], [9000 (1)]}
+Options:
+	f: find records
+	p: print the tree
+	q: quit
+> f
+> Provide keywords (seprate by ,): 8000
+> Found 7 records
+> ... [Scorpion, (8000)]
+> ... [Horned atlas, (8000)]
+> ... [Cyclommatus stag, (8000)]
+> ... [Horned elephant, (8000)]
+> ... [Goliath beetle, (8000)]
+> ... [Tarantula, (8000)]
+> ... [Hammerhead shark, (8000)]
+Options:
+	f: find records
+	p: print the tree
+	q: quit
+> q
+Bye~

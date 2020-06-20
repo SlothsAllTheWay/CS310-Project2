@@ -1,0 +1,68 @@
+| => javac -cp .:json-simple-1.1.1.jar *.java; java -cp .:json-simple-1.1.1.jar cs310pa2 -name name -keyword moves -max 12 json/pokemon.json
+
+Welcome to CS310 PA02: Tree Dictionary
+Read 12 records from json/pokemon.json
+Options:
+	f: find records
+	p: print the tree
+	q: quit
+> p
+> Tree Dictionary: {[bite (2)], [bubble (3)], [confusion (1)], [ember (2)], [flamethrower (2)], [gust (1)], [hydro pump (1)], [metal claw (3)], [poison sting (1)], [psybeam (1)], [razor leaf (2)], [scratch (2)], [silver wind (1)], [slash (1)], [tackle (6)], [vine whip (3)], [water gun (3)], [wing attack (1)]}
+Options:
+	f: find records
+	p: print the tree
+	q: quit
+> f
+> Provide keywords (seprate by ,): water gun
+> Found 3 records
+> ... [Squirtle, (tackle, bubble, water gun)]
+> ... [Wartortle, (tackle, bubble, water gun, bite)]
+> ... [Blastoise, (hydro pump, bubble, water gun, bite)]
+Options:
+	f: find records
+	p: print the tree
+	q: quit
+> f
+> Provide keywords (seprate by ,): water gun, bubble
+> Found 3 records
+> ... [Squirtle, (tackle, bubble, water gun)]
+> ... [Wartortle, (tackle, bubble, water gun, bite)]
+> ... [Blastoise, (hydro pump, bubble, water gun, bite)]
+Options:
+	f: find records
+	p: print the tree
+	q: quit
+> f
+> Provide keywords (seprate by ,): bubble,water gun  
+> Found 3 records
+> ... [Squirtle, (tackle, bubble, water gun)]
+> ... [Wartortle, (tackle, bubble, water gun, bite)]
+> ... [Blastoise, (hydro pump, bubble, water gun, bite)]
+Options:
+	f: find records
+	p: print the tree
+	q: quit
+> f  
+> Provide keywords (seprate by ,): bite
+> Found 2 records
+> ... [Wartortle, (tackle, bubble, water gun, bite)]
+> ... [Blastoise, (hydro pump, bubble, water gun, bite)]
+Options:
+	f: find records
+	p: print the tree
+	q: quit
+> f     
+> Provide keywords (seprate by ,): tackle
+> Found 6 records
+> ... [Bulbasaur, (tackle, vine whip)]
+> ... [Ivysaur, (tackle, vine whip, razor leaf)]
+> ... [Venusaur, (tackle, vine whip, razor leaf)]
+> ... [Squirtle, (tackle, bubble, water gun)]
+> ... [Wartortle, (tackle, bubble, water gun, bite)]
+> ... [Caterpie, (tackle)]
+Options:
+	f: find records
+	p: print the tree
+	q: quit
+> q
+Bye~

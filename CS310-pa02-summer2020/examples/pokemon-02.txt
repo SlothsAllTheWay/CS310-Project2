@@ -1,0 +1,99 @@
+| => javac -cp .:json-simple-1.1.1.jar *.java; java -cp .:json-simple-1.1.1.jar  cs310pa2 -name name -keyword moves  json/pokemon.json
+Welcome to CS310 PA02: Tree Dictionary
+Read 124 records from json/pokemon.json
+Options:
+	f: find records
+	p: print the tree
+	q: quit
+> p
+> Tree Dictionary: {[acid (3)], [air cutter (1)], [ancientpower (4)], [astonish (1)], [aurora beam (3)], [bite (15)], [blizzard (2)], [body slam (4)], [bone club (2)], [bubble (7)], [bubblebeam (2)], [confusion (13)], [constrict (4)], [crabhammer (1)], [cross chop (2)], [dizzy punch (1)], [dragonbreath (1)], [drill peck (3)], [dynamicpunch (1)], [earthquake (3)], [egg bomb (2)], [ember (8)], [fire blast (2)], [fire punch (2)], [flamethrower (5)], [gust (6)], [headbutt (9)], [heat wave (1)], [horn attack (5)], [hydro pump (7)], [hyper fang (2)], [ice beam (3)], [ice punch (2)], [icy wind (2)], [iron tail (1)], [karate chop (4)], [lick (3)], [low kick (4)], [magical leaf (1)], [mega punch (3)], [megahorn (3)], [metal claw (3)], [mud shot (6)], [peck (10)], [poison fang (1)], [poison sting (8)], [pound (6)], [powder snow (2)], [psybeam (5)], [psychic (7)], [razor leaf (3)], [rock throw (3)], [rolling kick (1)], [scratch (18)], [shadow ball (1)], [shadow punch (1)], [silver wind (1)], [sky uppercut (1)], [slam (6)], [slash (8)], [sludge (4)], [sludge bomb (1)], [smog (4)], [snore (1)], [spark (4)], [stomp (8)], [superpower (1)], [swift (5)], [tackle (29)], [thunder (3)], [thunderbolt (2)], [thunderpunch (1)], [thundershock (5)], [twister (6)], [vicegrip (3)], [vine whip (6)], [water gun (13)], [waterfall (1)], [wing attack (9)], [zap cannon (2)]}
+Options:
+	f: find records
+	p: print the tree
+	q: quit
+> f
+> Provide keywords (seprate by ,): wing attack
+> Found 9 records
+> ... [Charizard, (flamethrower, wing attack, slash, metal claw)]
+> ... [Pidgeotto, (tackle, gust, wing attack)]
+> ... [Pidgeot, (tackle, gust, wing attack)]
+> ... [Zubat, (astonish, bite, wing attack)]
+> ... [Golbat, (poison fang, bite, wing attack, air cutter)]
+> ... [Scyther, (wing attack, slash)]
+> ... [Aerodactyl, (wing attack, bite, ancientpower)]
+> ... [Moltres, (wing attack, ember, flamethrower, heat wave)]
+> ... [Dragonite, (twister, slam, wing attack)]
+Options:
+	f: find records
+	p: print the tree
+	q: quit
+> f
+> Provide keywords (seprate by ,): stomp,bubble
+> Found 1 records
+> ... [Krabby, (bubble, vicegrip, mud shot, stomp)]
+Options:
+	f: find records
+	p: print the tree
+	q: quit
+> f
+> Provide keywords (seprate by ,): vicegrip, mud shot
+> Found 2 records
+> ... [Krabby, (bubble, vicegrip, mud shot, stomp)]
+> ... [Kingler, (stomp, crabhammer, vicegrip, mud shot)]
+Options:
+	f: find records
+	p: print the tree
+	q: quit
+> f
+> Provide keywords (seprate by ,): vicegrip, mud shot, zap cannon
+> No records found
+Options:
+	f: find records
+	p: print the tree
+	q: quit
+> f          
+> Provide keywords (seprate by ,): wing attack,wing attack         
+> No records found
+Options:
+	f: find records
+	p: print the tree
+	q: quit
+> f
+> Provide keywords (seprate by ,): afijafj qoiwjwofqjojf
+> No records found
+Options:
+	f: find records
+	p: print the tree
+	q: quit
+> f
+> Provide keywords (seprate by ,): Bubble    
+> No records found
+Options:
+	f: find records
+	p: print the tree
+	q: quit
+> f
+> Provide keywords (seprate by ,): bubble
+> Found 7 records
+> ... [Squirtle, (tackle, bubble, water gun)]
+> ... [Wartortle, (tackle, bubble, water gun, bite)]
+> ... [Blastoise, (hydro pump, bubble, water gun, bite)]
+> ... [Poliwag, (bubble, water gun)]
+> ... [Krabby, (bubble, vicegrip, mud shot, stomp)]
+> ... [Horsea, (bubble, water gun, twister)]
+> ... [Seadra, (bubble, water gun, twister, hydro pump)]
+Options:
+	f: find records
+	p: print the tree
+	q: quit
+> f
+> Provide keywords (seprate by ,): bubble,water gun,hydro pump,
+> Found 2 records
+> ... [Blastoise, (hydro pump, bubble, water gun, bite)]
+> ... [Seadra, (bubble, water gun, twister, hydro pump)]
+Options:
+	f: find records
+	p: print the tree
+	q: quit
+> q
+Bye~

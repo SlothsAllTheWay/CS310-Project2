@@ -1,0 +1,58 @@
+| => javac -cp .:json-simple-1.1.1.jar *.java; java -cp .:json-simple-1.1.1.jar cs310pa2 -name title -keyword genres -max 12 json/movies.json
+Welcome to CS310 PA02: Tree Dictionary
+Read 12 records from json/movies.json
+Options:
+	f: find records
+	p: print the tree
+	q: quit
+> p
+> Tree Dictionary: {[Action (4)], [Adventure (3)], [Animation (2)], [Comedy (4)], [Crime (1)], [Drama (9)], [Fantasy (1)], [Romance (2)], [Sci-Fi (1)], [Thriller (1)]}
+Options:
+	f: find records
+	p: print the tree
+	q: quit
+> f
+> Provide keywords (seprate by ,): action            
+> No records found
+Options:
+	f: find records
+	p: print the tree
+	q: quit
+> f
+> Provide keywords (seprate by ,): Action
+> Found 4 records
+> ... [Black Panther, (Action, Adventure, Sci-Fi)]
+> ... [Aiyaary, (Action, Crime, Drama)]
+> ... [Samson, (Action, Drama)]
+> ... [Xiyouji zhi Nü'erguo, (Action, Adventure, Fantasy)]
+Options:
+	f: find records
+	p: print the tree
+	q: quit
+> f
+> Provide keywords (seprate by ,): Drama
+> Found 9 records
+> ... [Aiyaary, (Action, Crime, Drama)]
+> ... [Samson, (Action, Drama)]
+> ... [Loveless, (Drama)]
+> ... [L'amant double, (Drama, Romance, Thriller)]
+> ... [The Party, (Comedy, Drama)]
+> ... [The Boy Downstairs, (Comedy, Drama, Romance)]
+> ... [Nostalgia, (Drama)]
+> ... [Oh Lucy!, (Comedy, Drama)]
+> ... [Tehran Taboo, (Animation, Drama)]
+Options:
+	f: find records
+	p: print the tree
+	q: quit
+> f
+> Provide keywords (seprate by ,): Action,Drama
+> Found 2 records
+> ... [Aiyaary, (Action, Crime, Drama)]
+> ... [Samson, (Action, Drama)]
+Options:
+	f: find records
+	p: print the tree
+	q: quit
+> q
+Bye~

@@ -1,0 +1,189 @@
+| => javac -cp .:json-simple-1.1.1.jar *.java; java -cp .:json-simple-1.1.1.jar cs310pa2 -name title -keyword genres json/movies.json
+Welcome to CS310 PA02: Tree Dictionary
+Read 369 records from json/movies.json
+Options:
+	f: find records
+	p: print the tree
+	q: quit
+> p
+> Tree Dictionary: {[Action (56)], [Adventure (82)], [Animation (23)], [Biography (33)], [Comedy (76)], [Crime (68)], [Documentary (6)], [Drama (242)], [Family (18)], [Fantasy (32)], [Film-Noir (7)], [History (20)], [Horror (14)], [Music (3)], [Musical (3)], [Mystery (38)], [Romance (34)], [Sci-Fi (28)], [Sport (4)], [Thriller (68)], [War (21)], [Western (7)]}
+Options:
+	f: find records
+	p: print the tree
+	q: quit
+> f
+> Provide keywords (seprate by ,): Action
+> Found 56 records
+> ... [Black Panther, (Action, Adventure, Sci-Fi)]
+> ... [Aiyaary, (Action, Crime, Drama)]
+> ... [Samson, (Action, Drama)]
+> ... [Xiyouji zhi Nü'erguo, (Action, Adventure, Fantasy)]
+> ... [Jumanji: Welcome to the Jungle, (Action, Adventure, Comedy)]
+> ... [Maze Runner: The Death Cure, (Action, Sci-Fi, Thriller)]
+> ... [The Dark Knight, (Action, Crime, Drama)]
+> ... [Rymdimperiet slår tillbaka, (Action, Adventure, Fantasy)]
+> ... [Inception, (Action, Adventure, Sci-Fi)]
+> ... [Matrix, (Action, Sci-Fi)]
+> ... [Stjärnornas krig, (Action, Adventure, Fantasy)]
+> ... [Jakten på den försvunna skatten, (Action, Adventure)]
+> ... [Terminator 2 - Domedagen, (Action, Sci-Fi, Thriller)]
+> ... [Gladiator, (Action, Adventure, Drama)]
+> ... [The Dark Knight Rises, (Action, Thriller)]
+> ... [Aliens - Återkomsten, (Action, Adventure, Sci-Fi)]
+> ... [I sista minuten, (Action, Adventure, Mystery)]
+> ... [Jedins återkomst, (Action, Adventure, Fantasy)]
+> ... [Dangal, (Action, Biography, Drama)]
+> ... [Indiana Jones och det sista korståget, (Action, Adventure, Fantasy)]
+> ... [Yojimbo (Livvakten), (Action, Drama, Thriller)]
+> ... [Batman Begins, (Action, Adventure)]
+> ... [Die Hard, (Action, Thriller)]
+> ... [Heat, (Action, Crime, Drama)]
+> ... [Ran, (Action, Drama)]
+> ... [Så går det till i krig, (Action, Adventure, Comedy)]
+> ... [V för Vendetta, (Action, Drama, Thriller)]
+> ... [Warrior, (Action, Drama, Sport)]
+> ... [Draktränaren, (Animation, Action, Adventure)]
+> ... [Kill Bill: Vol. 1, (Action, Crime, Thriller)]
+> ... [Sholay, (Action, Adventure, Comedy)]
+> ... [Rush, (Action, Biography, Drama)]
+> ... [Mad Max: Fury Road, (Action, Adventure, Sci-Fi)]
+> ... [Star Wars: The Force Awakens, (Action, Adventure, Fantasy)]
+> ... [The Bourne Ultimatum, (Action, Mystery, Thriller)]
+> ... [Terminator, (Action, Sci-Fi)]
+> ... [John Wick: Chapter 2, (Action, Crime, Thriller)]
+> ... [Gangs of Wasseypur, (Action, Crime, Drama)]
+> ... [Pirates of the Caribbean: Svarta Pärlans förbannelse, (Action, Adventure, Fantasy)]
+> ... [Game Night, (Action, Comedy, Crime)]
+> ... [Beast of Burden, (Action, Crime, Drama)]
+> ... [Death Wish, (Action, Crime, Drama)]
+> ... [The Hurricane Heist, (Action, Thriller)]
+> ... [Gringo, (Action, Comedy, Drama)]
+> ... [Tomb Raider, (Action, Adventure)]
+> ... [Pacific Rim Uprising, (Action, Adventure, Sci-Fi)]
+> ... [Ready Player One, (Action, Adventure, Sci-Fi)]
+> ... [A Prayer Before Dawn, (Action, Biography, Crime)]
+> ... [Rampage, (Action, Adventure, Sci-Fi)]
+> ... [Armed, (Action, Thriller)]
+> ... [Avengers: Infinity War, (Action, Adventure, Fantasy)]
+> ... [Untitled Deadpool Sequel, (Action, Adventure, Comedy)]
+> ... [Solo: A Star Wars Story, (Action, Adventure, Fantasy)]
+> ... [Avengers: Infinity War, (Action, Adventure, Fantasy)]
+> ... [Untitled Deadpool Sequel, (Action, Adventure, Comedy)]
+> ... [Solo: A Star Wars Story, (Action, Adventure, Fantasy)]
+Options:
+	f: find records
+	p: print the tree
+	q: quit
+> f
+> Provide keywords (seprate by ,): Action,Drama
+> Found 15 records
+> ... [Aiyaary, (Action, Crime, Drama)]
+> ... [Samson, (Action, Drama)]
+> ... [The Dark Knight, (Action, Crime, Drama)]
+> ... [Gladiator, (Action, Adventure, Drama)]
+> ... [Dangal, (Action, Biography, Drama)]
+> ... [Yojimbo (Livvakten), (Action, Drama, Thriller)]
+> ... [Heat, (Action, Crime, Drama)]
+> ... [Ran, (Action, Drama)]
+> ... [V för Vendetta, (Action, Drama, Thriller)]
+> ... [Warrior, (Action, Drama, Sport)]
+> ... [Rush, (Action, Biography, Drama)]
+> ... [Gangs of Wasseypur, (Action, Crime, Drama)]
+> ... [Beast of Burden, (Action, Crime, Drama)]
+> ... [Death Wish, (Action, Crime, Drama)]
+> ... [Gringo, (Action, Comedy, Drama)]
+Options:
+	f: find records
+	p: print the tree
+	q: quit
+> f
+> Provide keywords (seprate by ,): Sport,Drama
+> Found 4 records
+> ... [Tjuren från Bronx, (Biography, Drama, Sport)]
+> ... [Warrior, (Action, Drama, Sport)]
+> ... [Million Dollar Baby, (Drama, Sport)]
+> ... [Rocky, (Drama, Sport)]
+Options:
+	f: find records
+	p: print the tree
+	q: quit
+> f
+> Provide keywords (seprate by ,): Thriller,Sport
+> No records found
+Options:
+	f: find records
+	p: print the tree
+	q: quit
+> f
+> Provide keywords (seprate by ,): Music,Musical 
+> No records found
+Options:
+	f: find records
+	p: print the tree
+	q: quit
+> 
+f
+> Provide keywords (seprate by ,): Music
+> Found 3 records
+> ... [Whiplash, (Drama, Music)]
+> ... [Taare Zameen Par, (Drama, Family, Music)]
+> ... [Souvenir, (Drama, Music, Romance)]
+Options:
+	f: find records
+	p: print the tree
+	q: quit
+> f
+> Provide keywords (seprate by ,): Musical
+> Found 3 records
+> ... [The Greatest Showman, (Biography, Drama, Musical)]
+> ... [La La Land, (Comedy, Drama, Musical)]
+> ... [Singin' in the Rain, (Comedy, Musical, Romance)]
+Options:
+	f: find records
+	p: print the tree
+	q: quit
+> f     
+> Provide keywords (seprate by ,): Sci-Fi
+> Found 28 records
+> ... [Black Panther, (Action, Adventure, Sci-Fi)]
+> ... [Maze Runner: The Death Cure, (Action, Sci-Fi, Thriller)]
+> ... [Inception, (Action, Adventure, Sci-Fi)]
+> ... [Matrix, (Action, Sci-Fi)]
+> ... [Interstellar, (Adventure, Drama, Sci-Fi)]
+> ... [Terminator 2 - Domedagen, (Action, Sci-Fi, Thriller)]
+> ... [Tillbaka till framtiden, (Adventure, Comedy, Sci-Fi)]
+> ... [The Prestige, (Drama, Mystery, Sci-Fi)]
+> ... [Alien, (Horror, Sci-Fi)]
+> ... [Aliens - Återkomsten, (Action, Adventure, Sci-Fi)]
+> ... [Clockwork Orange, (Crime, Drama, Sci-Fi)]
+> ... [Eternal Sunshine of the Spotless Mind, (Drama, Romance, Sci-Fi)]
+> ... [År 2001 - Ett rymdäventyr, (Adventure, Sci-Fi)]
+> ... [Metropolis, (Drama, Sci-Fi)]
+> ... [Blade Runner, (Sci-Fi, Thriller)]
+> ... [The Thing, (Horror, Mystery, Sci-Fi)]
+> ... [Mad Max: Fury Road, (Action, Adventure, Sci-Fi)]
+> ... [Jurassic Park, (Adventure, Sci-Fi, Thriller)]
+> ... [Stalker, (Drama, Sci-Fi)]
+> ... [Truman Show, (Comedy, Drama, Sci-Fi)]
+> ... [Donnie Darko, (Drama, Sci-Fi, Thriller)]
+> ... [Terminator, (Action, Sci-Fi)]
+> ... [Arrival, (Drama, Mystery, Sci-Fi)]
+> ... [De 12 apornas armé, (Mystery, Sci-Fi, Thriller)]
+> ... [Pacific Rim Uprising, (Action, Adventure, Sci-Fi)]
+> ... [The Endless, (Horror, Sci-Fi, Thriller)]
+> ... [Ready Player One, (Action, Adventure, Sci-Fi)]
+> ... [Rampage, (Action, Adventure, Sci-Fi)]
+Options:
+	f: find records
+	p: print the tree
+	q: quit
+> f
+> Provide keywords (seprate by ,): Romance, Sci-Fi
+> Found 1 records
+> ... [Eternal Sunshine of the Spotless Mind, (Drama, Romance, Sci-Fi)]
+Options:
+	f: find records
+	p: print the tree
+	q: quit
+> q
+Bye~

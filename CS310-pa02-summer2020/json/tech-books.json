@@ -1,0 +1,1586 @@
+[
+    {
+    "title" : "Murach's ASP.NET 4.6 Web Programming with C# 2015, 6th Edition",
+    "index_code" : "Business",
+    "year_published" : 2016,
+    "number_pages" : 927,
+    "time_stamp" : "2018-11-04",
+    "tags" : ["ASP.NET", "C#", "MS SQL Server", "Microsoft"]
+    },
+    {
+    "title" : "Murach's HTML5/CSS3, 3rd Edition",
+    "index_code" : "Business",
+    "year_published" : 2015,
+    "number_pages" : 682,
+    "time_stamp" : "2018-11-04",
+    "tags" : ["HTML5", "CSS3", "JavaScript", "Bootstrap 4"]
+    },
+    {
+    "title" : "Murach's JavaScript/jQuery, 3rd Edition",
+    "index_code" : "Business",
+    "year_published" : 2017,
+    "number_pages" : 610,
+    "time_stamp" : "2018-11-04",
+    "tags" : ["HTML5", "CSS3", "JavaScript", "jQuery", "Bootstrap 4"]
+    },
+    {
+    "title" : "Murach's PHP/MySQL, 3rd Edition",
+    "index_code" : "Business",
+    "year_published" : 2017,
+    "number_pages" : 866,
+    "time_stamp" : "2018-11-04",
+    "tags" : ["PHP", "MySQL"]
+    },
+    {
+    "title" : "Getting Things Done",
+    "index_code" : "Business",
+    "year_published" : 2015,
+    "number_pages" : 317,
+    "time_stamp" : "2018-11-04",
+    "tags" : ["Business", "Psychology"]
+    },
+    {
+    "title" : "Crucial Conversations",
+    "index_code" : "Business",
+    "year_published" : 2012,
+    "number_pages" : 244,
+    "time_stamp" : "2018-11-04",
+    "tags" : ["Business", "Communication"]
+    },
+    {
+    "title" : "Crucial Accountability",
+    "index_code" : "Business",
+    "year_published" : 2013,
+    "number_pages" : 275,
+    "time_stamp" : "2018-11-04",
+    "tags" : ["Business", "Communication"]
+    },
+    {
+    "title" : "Thanks for the Feedback",
+    "index_code" : "Business",
+    "year_published" : 2014,
+    "number_pages" : 348,
+    "time_stamp" : "2018-11-04",
+    "tags" : ["Business", "Psychology"]
+    },
+    {
+    "title" : "Born for This",
+    "index_code" : "Business",
+    "year_published" : 2016,
+    "number_pages" : 313,
+    "time_stamp" : "2017-10-05",
+    "tags" : ["Business", "Career", "Entrepreneur", "Side Gig"]
+    },
+    {
+    "title" : "The $100 Startup",
+    "index_code" : "Business",
+    "year_published" : 2012,
+    "number_pages" : 285,
+    "time_stamp" : "2017-10-05",
+    "tags" : ["Business", "Career", "Entrepreneur", "Startup"]
+    },
+    {
+    "title" : "Give and Take",
+    "index_code" : "Business",
+    "year_published" : 2013,
+    "number_pages" : 307,
+    "time_stamp" : "2017-09-09",
+    "tags" : ["Advice", "Business"]
+    },
+    {
+    "title" : "Originals",
+    "index_code" : "Business",
+    "year_published" : 2016,
+    "number_pages" : 321,
+    "time_stamp" : "2017-09-09",
+    "tags" : ["Business"]
+    },
+    {
+    "title" : "The Art of Non-Conformity",
+    "index_code" : "Self-Help",
+    "year_published" : 2010,
+    "number_pages" : 242,
+    "time_stamp" : "2017-09-09",
+    "tags" : ["Self-Help", "Career"]
+    },
+    {
+    "title" : "The Happiness of Pursuit",
+    "index_code" : "Self-Help",
+    "year_published" : 2014,
+    "number_pages" : 309,
+    "time_stamp" : "2017-09-09",
+    "tags" : ["Self-Help", "Happiness"]
+    },
+    {
+    "title" : "Declutter Your Mind",
+    "index_code" : "Self-help",
+    "year_published" : 2016,
+    "number_pages" : 155,
+    "time_stamp" : "2017-08-29",
+    "tags" : [""]
+    },
+    {
+    "title" : "Murach's MySQL, 2nd Edition",
+    "index_code" : "Database",
+    "year_published" : 2015,
+    "number_pages" : 590,
+    "time_stamp" : "2017-08-29",
+    "tags" : ["MySQL", "Databases", "PHP"]
+    },
+    {
+    "title" : "Murach's Python Programming",
+    "index_code" : "Programming",
+    "year_published" : 2016,
+    "number_pages" : 553,
+    "time_stamp" : "2017-08-29",
+    "tags" : ["Python", "Programming"]
+    },
+    {
+    "title" : "Murach's Java Programming, 5th Edition",
+    "index_code" : "Programming",
+    "year_published" : 2017,
+    "number_pages" : 777,
+    "time_stamp" : "2017-08-29",
+    "tags" : ["Java", "Programming"]
+    },
+    {
+    "title" : "Raspberry Pi User Guide",
+    "index_code" : "Raspberry Pi",
+    "year_published" : 2016,
+    "number_pages" : 293,
+    "time_stamp" : "2017-08-29",
+    "tags" : ["Raspberry Pi", "RPi", "Linux", "Open Source"]
+    },
+    {
+    "title" : "Exploring Raspberry Pi",
+    "index_code" : "Raspberry Pi",
+    "year_published" : 2016,
+    "number_pages" : 693,
+    "time_stamp" : "2017-08-29",
+    "tags" : ["Raspberry Pi", "RPi", "Linux", "Open Source"]
+    },
+    {
+    "title" : "Learning Computer Architecture with Raspberry Pi",
+    "index_code" : "Raspberry Pi",
+    "year_published" : 2016,
+    "number_pages" : 507,
+    "time_stamp" : "2017-08-29",
+    "tags" : ["Raspberry Pi", "RPi", "Architecture", "Hardware"]
+    },
+    {
+    "title" : "Programming Hive: Data Warehouse and Query Language for Hadoop",
+    "index_code" : "Data Science",
+    "year_published" : 2011,
+    "number_pages" : 350,
+    "time_stamp" : "2017-05-12",
+    "tags" : ["Hive"]
+    },
+    {
+    "title" : "Learning Spark: Lightning-Fast Big Data Analysis",
+    "index_code" : "Data Science",
+    "year_published" : 2015,
+    "number_pages" : 276,
+    "time_stamp" : "2017-05-12",
+    "tags" : ["Spark"]
+    },
+    {
+    "title" : "Hadoop in Practice: Includes 104 Techniques",
+    "index_code" : "Data Science",
+    "year_published" : 2014,
+    "number_pages" : 512,
+    "time_stamp" : "2017-05-12",
+    "tags" : ["Hadoop"]
+    },
+    {
+    "title" : "Amazon Web Services in Action",
+    "index_code" : "Data Science",
+    "year_published" : 2015,
+    "number_pages" : 424,
+    "time_stamp" : "2017-05-12",
+    "tags" : ["AWS"]
+    },
+    {
+    "title" : "Scala Cookbook",
+    "index_code" : "Data Science",
+    "year_published" : 2013,
+    "number_pages" : 694,
+    "time_stamp" : "2017-05-04",
+    "tags" : ["Scala"]
+    },
+    {
+    "title" : "Spark in Action",
+    "index_code" : "Data Science",
+    "year_published" : 2017,
+    "number_pages" : 443,
+    "time_stamp" : "2017-05-04",
+    "tags" : ["Spark"]
+    },
+    {
+    "title" : "Scala in Action",
+    "index_code" : "Data Science",
+    "year_published" : 2013,
+    "number_pages" : 393,
+    "time_stamp" : "2017-05-04",
+    "tags" : ["Scala"]
+    },
+    {
+    "title" : "Practical Data Science with Hadoop and Spark",
+    "index_code" : "Data Science",
+    "year_published" : 2017,
+    "number_pages" : 230,
+    "time_stamp" : "2017-05-04",
+    "tags" : ["Hadoop", "Spark"]
+    },
+    {
+    "title" : "Hadoop 2 Quick-Start Guide",
+    "index_code" : "Data Science",
+    "year_published" : 2016,
+    "number_pages" : 278,
+    "time_stamp" : "2017-05-04",
+    "tags" : ["Hadoop"]
+    },
+    {
+    "title" : "Mastering Tableau",
+    "index_code" : "Data Visualization",
+    "year_published" : 2016,
+    "number_pages" : 458,
+    "time_stamp" : "2017-03-03",
+    "tags" : ["Tableau"]
+    },
+    {
+    "title" : "R Graphics Cookbook",
+    "index_code" : "Data Analysis",
+    "year_published" : 2013,
+    "number_pages" : 396,
+    "time_stamp" : "2017-03-03",
+    "tags" : ["R"]
+    },
+    {
+    "title" : "R for Data Science",
+    "index_code" : "Data Analysis",
+    "year_published" : 2017,
+    "number_pages" : 492,
+    "time_stamp" : "2017-03-03",
+    "tags" : ["R"]
+    },
+    {
+    "title" : "How to Have a Good Day",
+    "index_code" : "Business",
+    "year_published" : 2016,
+    "number_pages" : 360,
+    "time_stamp" : "2017-01-02",
+    "tags" : ["", "", ""]
+    },
+    {
+    "title" : "Pre-Suasion",
+    "index_code" : "Business",
+    "year_published" : 2016,
+    "number_pages" : 413,
+    "time_stamp" : "2017-01-02",
+    "tags" : ["", "", ""]
+    },
+    {
+    "title" : "The Coaching Habit",
+    "index_code" : "Business",
+    "year_published" : 2016,
+    "number_pages" : 227,
+    "time_stamp" : "2017-01-02",
+    "tags" : ["", "", ""]
+    },
+    {
+    "title" : "Thank You for Being Late",
+    "index_code" : "Current Affairs",
+    "year_published" : 2016,
+    "number_pages" : 486,
+    "time_stamp" : "2016-12-09",
+    "tags" : ["", "", ""]
+    },
+    {
+    "title" : "Rails, Angular, Postgres, and Bootstrap",
+    "index_code" : "Rails",
+    "year_published" : 2016,
+    "number_pages" : 240,
+    "time_stamp" : "2016-11-27",
+    "tags" : ["Rails", "Angular", "Postgres", "Bootcamp", "Heroku"]
+    },
+    {
+    "title" : "Ruby Cookbook (2nd Edition)",
+    "index_code" : "Ruby",
+    "year_published" : 2015,
+    "number_pages" : 992,
+    "time_stamp" : "2016-11-27",
+    "tags" : ["", "", ""]
+    },
+    {
+    "title" : "Only Humans Need Apply",
+    "index_code" : "Technology",
+    "year_published" : 2016,
+    "number_pages" : 276,
+    "time_stamp" : "2016-11-26",
+    "tags" : ["", "", ""]
+    },
+    {
+    "title" : "Rise of the Robots",
+    "index_code" : "Technology",
+    "year_published" : 2015,
+    "number_pages" : 334,
+    "time_stamp" : "2016-11-26",
+    "tags" : ["", "", ""]
+    },
+    {
+    "title" : "The Age of CryptoCurrency",
+    "index_code" : "Technology",
+    "year_published" : 2015,
+    "number_pages" : 374,
+    "time_stamp" : "2016-11-26",
+    "tags" : ["", "", ""]
+    },
+    {
+    "title" : "Thinking, Fast and Slow",
+    "index_code" : "Psychology",
+    "year_published" : 2011,
+    "number_pages" : 499,
+    "time_stamp" : "2016-11-26",
+    "tags" : ["", "", ""]
+    },
+    {
+    "title" : "The Inevitable",
+    "index_code" : "Technology",
+    "year_published" : 2016,
+    "number_pages" : 328,
+    "time_stamp" : "2016-11-26",
+    "tags" : ["", "", ""]
+    },
+    {
+    "title" : "Python Cookbook",
+    "index_code" : "Python",
+    "year_published" : 2013,
+    "number_pages" : 687,
+    "time_stamp" : "2016-09-29",
+    "tags" : ["Python"]
+    },
+    {
+    "title" : "Fluent Python",
+    "index_code" : "Python",
+    "year_published" : 2015,
+    "number_pages" : 765,
+    "time_stamp" : "2016-09-29",
+    "tags" : ["Python"]
+    },
+    {
+    "title" : "Cracking the Tech Career",
+    "index_code" : "Software Dev",
+    "year_published" : 2014,
+    "number_pages" : 288,
+    "time_stamp" : "2016-08-16",
+    "tags" : ["Coding", "Programming", "Interviews", "Careers", "Job Search"]
+    },
+    {
+    "title" : "Cracking the PM Interview",
+    "index_code" : "Software Dev",
+    "year_published" : 2013,
+    "number_pages" : 364,
+    "time_stamp" : "2016-08-16",
+    "tags" : ["Coding", "Programming", "Interviews", "Careers", "Job Search"]
+    },
+    {
+    "title" : "Social Networking for Career Success",
+    "index_code" : "Social Media",
+    "year_published" : 2013,
+    "number_pages" : 384,
+    "time_stamp" : "2016-08-16",
+    "tags" : ["Social Media", "Facebook", "LinkedIn", "Twitter"]
+    },
+    {
+    "title" : "The Scrum Field Guide",
+    "index_code" : "Agile",
+    "year_published" : 2016,
+    "number_pages" : 448,
+    "time_stamp" : "2016-08-16",
+    "tags" : ["Agile", "Scrum", "Development"]
+    },
+    {
+    "title" : "Ruby on Rails Tutorial, 3rd Edition",
+    "index_code" : "Ruby on Rails",
+    "year_published" : 2015,
+    "number_pages" : 744,
+    "time_stamp" : "2016-07-14",
+    "tags" : ["Ruby", "Rails", "Cloud9", "Bitbucket", "Heroku"]
+    },
+    {
+    "title" : "Head First Ruby",
+    "index_code" : "Ruby",
+    "year_published" : 2016,
+    "number_pages" : 536,
+    "time_stamp" : "2016-07-14",
+    "tags" : ["Ruby", "Programming", "Design"]
+    },
+    {
+    "title" : "Grit: The Power of Passion and Perseverance",
+    "index_code" : "Business",
+    "year_published" : 2016,
+    "number_pages" : 333,
+    "time_stamp" : "2016-05-15",
+    "tags" : ["Grit"]
+    },
+    {
+    "title" : "TED Talks: Official TED Guide to Public Speaking",
+    "index_code" : "Business",
+    "year_published" : 2016,
+    "number_pages" : 269,
+    "time_stamp" : "2016-05-15",
+    "tags" : ["TED", "Public Speaking", "Presentations"]
+    },
+    {
+    "title" : "Customer Analytics for Dummies",
+    "index_code" : "Analytics",
+    "year_published" : 2015,
+    "number_pages" : 324,
+    "time_stamp" : "2016-05-15",
+    "tags" : ["Data", "Analytics", "Business Intelligence"]
+    },
+    {
+    "title" : "Getting a Coding Job for Dummies",
+    "index_code" : "Programming",
+    "year_published" : 2015,
+    "number_pages" : 278,
+    "time_stamp" : "2016-05-15",
+    "tags" : ["Coding", "Programming", "Interviews", "Careers", "Job Search"]
+    },
+    {
+    "title" : "Mastering Apache Cassandra",
+    "index_code" : "Cassandra",
+    "year_published" : 2015,
+    "number_pages" : 321,
+    "time_stamp" : "2016-06-04",
+    "tags" : ["Apache", "Cassandra", "Java", "Hadoop"]
+    }, 
+    {
+    "title" : "Programming Interviews Exposed 3rd Edition",
+    "index_code" : "Software Dev",
+    "year_published" : 2013,
+    "number_pages" : 301,
+    "time_stamp" : "2016-06-04",
+    "tags" : ["Coding", "Programming", "Interviews", "Careers", "Job Search"]
+    },
+    {
+    "title" : "Cracking the Coding Interview 6th Edition",
+    "index_code" : "Software Dev",
+    "year_published" : 2015,
+    "number_pages" : 696,
+    "time_stamp" : "2016-06-04",
+    "tags" : ["Coding", "Programming", "Interviews", "Careers", "Job Search"]
+    }, 
+    {
+    "title" : "Ionic in Action",
+    "index_code" : "Ionic",
+    "year_published" : 2016,
+    "number_pages" : 254,
+    "time_stamp" : "2016-03-16",
+    "tags" : ["Ionic", "Cordova", "Mobile App", "HTML", "CSS", "JavaScript"]
+    }, 
+    {
+    "title" : "Apache Cordova in Action",
+    "index_code" : "Cordova",
+    "year_published" : 2016,
+    "number_pages" : 230,
+    "time_stamp" : "2016-03-16",
+    "tags" : ["Apache", "Cordova", "Mobile App", "HTML", "CSS", "JavaScript"]
+    }, 
+    {
+    "title" : "JavaScript Frameworks for Modern Web Dev",
+    "index_code" : "JavaScript",
+    "year_published" : 2015,
+    "number_pages" : 485,
+    "time_stamp" : "2016-03-16",
+    "tags" : ["JavaScript", "NodeJS", "npm", "Bower", "Grunt", "Yeoman"]
+    }, 
+    {
+    "title" : "R Cookbook",
+    "index_code" : "R",
+    "year_published" : 2011,
+    "number_pages" : 413,
+    "time_stamp" : "2016-02-05",
+    "tags" : ["R", "RStudio", "Data Science", "Programming"]
+    }, 
+    {
+    "title" : "Web Scraping with Python",
+    "index_code" : "Python",
+    "year_published" : 2015,
+    "number_pages" : 238,
+    "time_stamp" : "2016-02-05",
+    "tags" : ["Python", "Web scraping", "Programming"]
+    },
+    {
+    "title" : "Java A Beginners Guide",
+    "index_code" : "Java",
+    "year_published" : 2014,
+    "number_pages" : 699,
+    "time_stamp" : "2016-02-05",
+    "tags" : ["Java", "Eclipse", "OOP", "Programming", "Object Oriented"]
+    },
+    {
+    "title" : "Storytelling with Data",
+    "index_code" : "Data Visualization",
+    "year_published" : 20,
+    "number_pages" : 267,
+    "time_stamp" : "2015-12-21",
+    "tags" : ["data", "Charts", "Graphs", "Visualization"]
+    },
+    {
+    "title" : "Hadoop: The Definitive Guide",
+    "index_code" : "Hadoop",
+    "year_published" : 2015,
+    "number_pages" : 727,
+    "time_stamp" : "2015-12-21",
+    "tags" : ["Hadoop", "Spark", "Pig", "Hive", "Python"]
+    },
+    {
+    "title" : "Data Science from Scratch",
+    "index_code" : "Python",
+    "year_published" : 2015,
+    "number_pages" : 311,
+    "time_stamp" : "2015-12-21",
+    "tags" : ["Data", "Data science", "Python"]
+    },
+    {
+    "title" : "Python for Informatics",
+    "index_code" : "Python",
+    "year_published" : 2009,
+    "number_pages" : 232,
+    "time_stamp" : "2015-12-21",
+    "tags" : ["Python", "Programming"]
+    },
+    {
+    "title" : "Perl Best Practices",
+    "index_code" : "Perl",
+    "year_published" : 2005,
+    "number_pages" : 517,
+    "time_stamp" : "2015-11-29",
+    "tags" : ["Perl", "Programming"]
+    },
+    {
+    "title" : "Intermediate Perl",
+    "index_code" : "Perl",
+    "year_published" : 2012,
+    "number_pages" : 371,
+    "time_stamp" : "2015-11-29",
+    "tags" : ["Perl", "Programming"]
+    },
+    {
+    "title" : "Learning Perl",
+    "index_code" : "Perl",
+    "year_published" : 2011,
+    "number_pages" : 363,
+    "time_stamp" : "2015-11-29",
+    "tags" : ["Perl", "Programming"]
+    },
+    {
+    "title" : "Learning R",
+    "index_code" : "R",
+    "year_published" : 2013,
+    "number_pages" : 377,
+    "time_stamp" : "2015-11-29",
+    "tags" : ["R", "Programming"]
+    },
+    {
+    "title" : "You Dont Know JS - Async &amp; Performance",
+    "index_code" : "JavaScript",
+    "year_published" : 2015,
+    "number_pages" : 276,
+    "time_stamp" : "2015-09-27",
+    "tags" : ["JavaScript", "Programming"]
+    },
+    {
+    "title" : "You Dont Know JS - Types &amp; Grammar",
+    "index_code" : "JavaScript",
+    "year_published" : 2015,
+    "number_pages" : 177,
+    "time_stamp" : "2015-09-27",
+    "tags" : ["JavaScript", "Programming"]
+    },
+    {
+    "title" : "You Dont Know JS - this &amp; Object Prototypes",
+    "index_code" : "JavaScript",
+    "year_published" : 2015,
+    "number_pages" : 153,
+    "time_stamp" : "2015-09-26",
+    "tags" : ["JavaScript", "Programming"]
+    },
+    {
+    "title" : "You Dont Know JS - Scope &amp; Closures",
+    "index_code" : "JavaScript",
+    "year_published" : 2015,
+    "number_pages" : 78,
+    "time_stamp" : "2015-09-26",
+    "tags" : ["JavaScript", "Programming"]
+    },
+    {
+    "title" : "You Dont Know JS - Up &amp; Going",
+    "index_code" : "JavaScript",
+    "year_published" : 2015,
+    "number_pages" : 72,
+    "time_stamp" : "2015-09-26",
+    "tags" : ["JavaScript", "Programming"]
+    },
+    {
+    "title" : "The Linux Command Line",
+    "index_code" : "Linux",
+    "year_published" : 2012,
+    "number_pages" : 446,
+    "time_stamp" : "2015-09-13",
+    "tags" : ["Linux"]
+    },
+    {
+    "title" : "Automate the Boring Stuff with Python",
+    "index_code" : "Python",
+    "year_published" : 2015,
+    "number_pages" : 479,
+    "time_stamp" : "2015-09-13",
+    "tags" : ["Python", "Programming"]
+    },
+    {
+    "title" : "Programming in HTML5 with JavaScript and CSS3 (Exam Ref)",
+    "index_code" : "Web Development",
+    "year_published" : 2014,
+    "number_pages" : 336,
+    "time_stamp" : "2015-08-08",
+    "tags" : ["JavaScript", "HTML5", "CSS3", "Programming"]
+    },
+    {
+    "title" : "Programming in HTML5 with JavaScript and CSS3 (Training Guide)",
+    "index_code" : "Web Development",
+    "year_published" : 2014,
+    "number_pages" : 654,
+    "time_stamp" : "2015-08-08",
+    "tags" : ["JavaScript", "HTML5", "CSS3", "Programming"]
+    },
+    {
+    "title" : "C# 2012",
+    "index_code" : "C#",
+    "year_published" : 2013,
+    "number_pages" : 850,
+    "time_stamp" : "2015-08-08",
+    "tags" : ["C#", "Programming"]
+    },
+    {
+    "title" : "ASP.NET 4.5 Web Programming with C# 2012",
+    "index_code" : "ASP.NET",
+    "year_published" : 2013,
+    "number_pages" : 822,
+    "time_stamp" : "2015-08-08",
+    "tags" : ["ASP.NET", "C#", "Programming"]
+    },
+    {
+    "title" : "Mastering TypeScript",
+    "index_code" : "JavaScript",
+    "year_published" : 2015,
+    "number_pages" : 337,
+    "time_stamp" : "2015-08-08",
+    "tags" : ["TypeScript"]
+    },
+    {
+    "title" : "Professional AngularJS",
+    "index_code" : "Front End Development",
+    "year_published" : 2015,
+    "number_pages" : 358,
+    "time_stamp" : "2015-08-08",
+    "tags" : ["AngularJS"]
+    },
+    {
+    "title" : "Essential Scrum",
+    "index_code" : "Software Dev",
+    "year_published" : 2013,
+    "number_pages" : 452,
+    "time_stamp" : "2015-03-04",
+    "tags" : ["Scrum", "Agile", "Software", "Development"]
+    },
+    {
+    "title" : "Scrum",
+    "index_code" : "Software Dev",
+    "year_published" : 2014,
+    "number_pages" : 248,
+    "time_stamp" : "2015-03-04",
+    "tags" : ["Scrum", "Agile", "Software", "Development"]
+    },
+    {
+    "title" : "Professional ALM with Visual Studion 2013",
+    "index_code" : "Software Dev",
+    "year_published" : 2014,
+    "number_pages" : 656,
+    "time_stamp" : "2015-02-18",
+    "tags" : ["ALM", "LiceCycle", "Visual Studio"]
+    },
+    {
+    "title" : "Professional ASP.NET MVC 5",
+    "index_code" : "ASP.NET",
+    "year_published" : 2014,
+    "number_pages" : 584,
+    "time_stamp" : "2015-02-18",
+    "tags" : ["ASP.NET", "MVC", "Razor", "Framework", "Visual Studio"]
+    },
+    {
+    "title" : "Soft Skills",
+    "index_code" : "Software Dev",
+    "year_published" : 2015,
+    "number_pages" : 470,
+    "time_stamp" : "2015-02-18",
+    "tags" : ["Craftsmanship", "Best Practices", "Communication"]
+    },
+    {
+    "title" : "The Software Craftsman",
+    "index_code" : "Software Dev",
+    "year_published" : 2015,
+    "number_pages" : 251,
+    "time_stamp" : "2015-02-18",
+    "tags" : ["Craftsmanship", "Best Practices", "Communication"]
+    },
+    {
+    "title" : "Murachs ASP.NET 4.5 Web Programming with C# 2012",
+    "index_code" : "C#",
+    "year_published" : 2013,
+    "number_pages" : 822,
+    "time_stamp" : "2014-10-02",
+    "tags" : ["ASP.NET", "Web", "Programming", "C#", "Visual Studio"]
+    },
+    {
+    "title" : "Murachs C# 2012",
+    "index_code" : "C#",
+    "year_published" : 2013,
+    "number_pages" : 850,
+    "time_stamp" : "2014-10-02",
+    "tags" : ["C#", "Programming", "OOP", "Software", "Design"]
+    },
+    {
+    "title" : "Node.js, MongoDB and AngularJS Web Development",
+    "index_code" : "Web Development",
+    "year_published" : 2014,
+    "number_pages" : 647,
+    "time_stamp" : "2014-07-20",
+    "tags" : ["NodeJS", "MongoDB", "AngularJS", "ExpressJS", "MEAN"]
+    },
+    {
+    "title" : "Oracle PL/SQL Programming",
+    "index_code" : "Oracle",
+    "year_published" : 2014,
+    "number_pages" : 1340,
+    "time_stamp" : "2014-07-20",
+    "tags" : ["Oracle", "PL/SQL", "SQL", "Databases"]
+    },
+    {
+    "title" : "Web Development Recipes",
+    "index_code" : "Web Development",
+    "year_published" : 2012,
+    "number_pages" : 321,
+    "time_stamp" : "2014-05-13",
+    "tags" : ["HTML", "CSS", "JavaScript", "Recipes"]
+    },
+    {
+    "title" : "Pro jQuery 2.0",
+    "index_code" : "JavaScript",
+    "year_published" : 2013,
+    "number_pages" : 1008,
+    "time_stamp" : "2014-05-13",
+    "tags" : ["jQuery", "JavaScript"]
+    },
+    {
+    "title" : "Universal Methods Of Design",
+    "index_code" : "UI Design",
+    "year_published" : 2012,
+    "number_pages" : 207,
+    "time_stamp" : "2014-01-24",
+    "tags" : ["Design"]
+    },
+    {
+    "title" : "100 Things Every Designer Needs To Know About People",
+    "index_code" : "UI Design",
+    "year_published" : 2011,
+    "number_pages" : 242,
+    "time_stamp" : "2014-01-24",
+    "tags" : ["Design"]
+    },
+    {
+    "title" : "Rocket Surgery Made Easy",
+    "index_code" : "UI Design",
+    "year_published" : 2010,
+    "number_pages" : 161,
+    "time_stamp" : "2014-01-24",
+    "tags" : ["Design", "UI", "UX", "User Experience"]
+    },
+    {
+    "title" : "Node.js in Action",
+    "index_code" : "JavaScript",
+    "year_published" : 2013,
+    "number_pages" : 416,
+    "time_stamp" : "2013-11-22",
+    "tags" : ["NodeJS", "npm", "JavaScript"]
+    },
+    {
+    "title" : "Single Page Web Applications",
+    "index_code" : "Web Development",
+    "year_published" : 2014,
+    "number_pages" : 407,
+    "time_stamp" : "2013-10-21",
+    "tags" : ["SPA", "JavaScript", "HTML", "CSS"]
+    },
+    {
+    "title" : "Responsive Web Design by Example",
+    "index_code" : "Web Development",
+    "year_published" : 2013,
+    "number_pages" : 317,
+    "time_stamp" : "2013-10-21",
+    "tags" : ["Responsive Web Design"]
+    },
+    {
+    "title" : "Backbone.js Cookbook",
+    "index_code" : "JavaScript",
+    "year_published" : 2013,
+    "number_pages" : 266,
+    "time_stamp" : "2013-10-21",
+    "tags" : ["Backbone.js", "JavaScript", "Templates"]
+    },
+    {
+    "title" : "SASS and Compass in Action",
+    "index_code" : "CSS",
+    "year_published" : 2013,
+    "number_pages" : 216,
+    "time_stamp" : "2013-09-25",
+    "tags" : ["SASS", "CSS", "Compass"]
+    },
+    {
+    "title" : "LESS CSS Preprocessor How-to",
+    "index_code" : "CSS",
+    "year_published" : 2013,
+    "number_pages" : 68,
+    "time_stamp" : "2013-09-25",
+    "tags" : ["LESS", "CSS"]
+    },
+    {
+    "title" : "Smashing CoffeeScript",
+    "index_code" : "JavaScript",
+    "year_published" : 2013,
+    "number_pages" : 322,
+    "time_stamp" : "2013-09-25",
+    "tags" : ["CoffeeScript", "JavaScript"]
+    },
+    {
+    "title" : "Quick Python Book, The",
+    "index_code" : "Python",
+    "year_published" : 2010,
+    "number_pages" : 336,
+    "time_stamp" : "2013-08-13",
+    "tags" : ["Python", "Programming"]
+    },
+    {
+    "title" : "Python 3 Object Oriented Programming",
+    "index_code" : "Python",
+    "year_published" : 2010,
+    "number_pages" : 388,
+    "time_stamp" : "2013-08-13",
+    "tags" : ["Python", "Programming"]
+    },
+    {
+    "title" : "Core Python Applications Programming",
+    "index_code" : "Python",
+    "year_published" : 2012,
+    "number_pages" : 852,
+    "time_stamp" : "2013-08-01",
+    "tags" : ["Python", "Programming"]
+    },
+    {
+    "title" : "ACE The Programming Interview",
+    "index_code" : "Software Dev",
+    "year_published" : 2013,
+    "number_pages" : 419,
+    "time_stamp" : "2013-08-01",
+    "tags" : ["Interview", "Programming"]
+    },
+    {
+    "title" : "Developing Backbone.js Applications",
+    "index_code" : "JavaScript",
+    "year_published" : 2013,
+    "number_pages" : 354,
+    "time_stamp" : "2013-06-18",
+    "tags" : ["Backbone.js", "Programming"]
+    },
+    {
+    "title" : "Beginning Google Maps API 3",
+    "index_code" : "JavaScript",
+    "year_published" : 2010,
+    "number_pages" : 310,
+    "time_stamp" : "2013-06-18",
+    "tags" : ["Google", "Maps"]
+    },
+    {
+    "title" : "Maintainable JavaScript",
+    "index_code" : "JavaScript",
+    "year_published" : 2012,
+    "number_pages" : 219,
+    "time_stamp" : "2013-05-31",
+    "tags" : ["JavaScript", "Web Programming"]
+    },
+    {
+    "title" : "Secrets of the JavaScript Ninja",
+    "index_code" : "JavaScript",
+    "year_published" : 2013,
+    "number_pages" : 370,
+    "time_stamp" : "2013-05-31",
+    "tags" : ["JavaScript", "Web Programming", "Ninja"]
+    },
+    {
+    "title" : "Smashing Node.js",
+    "index_code" : "JavaScript",
+    "year_published" : 2012,
+    "number_pages" : 308,
+    "time_stamp" : "2013-05-31",
+    "tags" : ["Node.js", "Smashing"]
+    },
+    {
+    "title" : "jQuery Pocket Reference",
+    "index_code" : "JavaScript",
+    "year_published" : 2011,
+    "number_pages" : 146,
+    "time_stamp" : "2013-05-31",
+    "tags" : ["jQuery", "Pocket Reference"]
+    },
+    {
+    "title" : "CSS Pocket Reference",
+    "index_code" : "CSS",
+    "year_published" : 2011,
+    "number_pages" : 238,
+    "time_stamp" : "2013-05-31",
+    "tags" : ["CSS", "Pocket Reference"]
+    },
+    {
+    "title" : "Guerrilla Marketing for Job Hunters 3.0",
+    "index_code" : "Software Dev",
+    "year_published" : 2011,
+    "number_pages" : 315,
+    "time_stamp" : "2013-03-28",
+    "tags" : ["Job Search"]
+    },
+    {
+    "title" : "Google Resume",
+    "index_code" : "Software Dev",
+    "year_published" : 2011,
+    "number_pages" : 280,
+    "time_stamp" : "2013-03-28",
+    "tags" : ["Google", "Job Search", "informational"]
+    },
+    {
+    "title" : "Illustrated C# 2012",
+    "index_code" : "C#",
+    "year_published" : 2012,
+    "number_pages" : 732,
+    "time_stamp" : "2013-02-28",
+    "tags" : ["C#", "ASP.NET"]
+    },
+    {
+    "title" : "Pro ASP.NET MVC 4",
+    "index_code" : "ASP.NET",
+    "year_published" : 2012,
+    "number_pages" : 729,
+    "time_stamp" : "2013-02-28",
+    "tags" : ["ASP.NET", "MVC"]
+    },
+    {
+    "title" : "JavaScript and jQuery",
+    "index_code" : "JavaScript",
+    "year_published" : 2012,
+    "number_pages" : 598,
+    "time_stamp" : "2013-01-29",
+    "tags" : ["JavaScript", "jQuery"]
+    },
+    {
+    "title" : "Head First - Design Patterns",
+    "index_code" : "Software Dev",
+    "year_published" : 2004,
+    "number_pages" : 638,
+    "time_stamp" : "2012-11-20",
+    "tags" : ["Head First", "Software", "Development", "Design Patterns"]
+    },
+    {
+    "title" : "Head First - Software Development",
+    "index_code" : "Software Dev",
+    "year_published" : 2008,
+    "number_pages" : 459,
+    "time_stamp" : "2012-11-20",
+    "tags" : ["Head First", "Software", "Development"]
+    },
+    {
+    "title" : "Coding Interview Questions",
+    "index_code" : "Software Dev",
+    "year_published" : 2012,
+    "number_pages" : 496,
+    "time_stamp" : "2012-11-20",
+    "tags" : ["Coding", "Interview"]
+    },
+    {
+    "title" : "Cracking the Coding Interview 5th Edition",
+    "index_code" : "Software Dev",
+    "year_published" : 2012,
+    "number_pages" : 500,
+    "time_stamp" : "2012-11-20",
+    "tags" : ["Coding", "Interview"]
+    },
+    {
+    "title" : "Art of Unit Testing, The",
+    "index_code" : "ASP.NET",
+    "year_published" : 2009,
+    "number_pages" : 296,
+    "time_stamp" : "2012-09-08",
+    "tags" : ["ASP.NET"]
+    },
+    {
+    "title" : "Dependency Injection in .NET",
+    "index_code" : "ASP.NET",
+    "year_published" : 2012,
+    "number_pages" : 552,
+    "time_stamp" : "2012-09-08",
+    "tags" : ["ASP.NET"]
+    },
+    {
+    "title" : "Continuous Integration in .NET",
+    "index_code" : "ASP.NET",
+    "year_published" : 2011,
+    "number_pages" : 303,
+    "time_stamp" : "2012-09-08",
+    "tags" : ["ASP.NET"]
+    },
+    {
+    "title" : "The Definitive Guide to HTML5",
+    "index_code" : "HTML5",
+    "year_published" : 2011,
+    "number_pages" : 1041,
+    "time_stamp" : "2012-06-24",
+    "tags" : ["HTML5", "CSS3", "JavaScript"]
+    },
+    {
+    "title" : "Java The Complete Reference",
+    "index_code" : "Java",
+    "year_published" : 2011,
+    "number_pages" : 1116,
+    "time_stamp" : "2012-06-24",
+    "tags" : ["Java", "OOP", "Eclipse"]
+    },
+    {
+    "title" : "Pro Web Project Management",
+    "index_code" : "Software Dev",
+    "year_published" : 2011,
+    "number_pages" : 239,
+    "time_stamp" : "2012-06-24",
+    "tags" : ["Web Development", "Project Management"]
+    },
+    {
+    "title" : "Ruby on Rails 3 Tutorial: Learn Rails by Example",
+    "index_code" : "Ruby on Rails",
+    "year_published" : 2010,
+    "number_pages" : 576,
+    "time_stamp" : "2012-01-05",
+    "tags" : ["Ruby", "Rails", "Tutorial"]
+    },
+    {
+    "title" : "Rails 3 Way, The (Second Edition)",
+    "index_code" : "Ruby on Rails",
+    "year_published" : 2010,
+    "number_pages" : 768,
+    "time_stamp" : "2012-01-05",
+    "tags" : ["Rails", "Ruby on Rails"]
+    },
+    {
+    "title" : "Eloquent Ruby",
+    "index_code" : "Ruby",
+    "year_published" : 2011,
+    "number_pages" : 448,
+    "time_stamp" : "2012-01-05",
+    "tags" : ["Ruby", "Dry", "Craftsmanship", "Programming"]
+    },
+    {
+    "title" : "Well Grounded Rubyist, The",
+    "index_code" : "Ruby",
+    "year_published" : 2009,
+    "number_pages" : 487,
+    "time_stamp" : "2012-01-05",
+    "tags" : ["Ruby", "Principles", "Programming"]
+    },
+    {
+    "title" : "Beginning PHP and MySQL (Fourth Edition)",
+    "index_code" : "PHP",
+    "year_published" : 2010,
+    "number_pages" : 787,
+    "time_stamp" : "2012-01-05",
+    "tags" : ["PHP", "MySQL", "Web Programming"]
+    },
+    {
+    "title" : "WordPress",
+    "index_code" : "CMS",
+    "year_published" : 2010,
+    "number_pages" : 644,
+    "time_stamp" : "2011-11-12",
+    "tags" : ["WordPress", "CMS", "PHP", "MySQL", "Web Development"]
+    },
+    {
+    "title" : "Learning the Vi and Vim Editors",
+    "index_code" : "Unix",
+    "year_published" : 2008,
+    "number_pages" : 470,
+    "time_stamp" : "2011-11-12",
+    "tags" : ["vi", "vim", "Linux", "editor"]
+    },
+    {
+    "title" : "Beginning Ubuntu Linux : Natty Narwhal Edition",
+    "index_code" : "Linux",
+    "year_published" : 2011,
+    "number_pages" : 628,
+    "time_stamp" : "2011-11-12",
+    "tags" : ["vi", "vim", "Linux", "Ubuntu"]
+    },
+    {
+    "title" : "MongoDB, The Definitive Guide",
+    "index_code" : "NoSql",
+    "year_published" : 2010,
+    "number_pages" : 307,
+    "time_stamp" : "2011-11-12",
+    "tags" : ["MongoDB", "NoSQL", "Node.js", "Python"]
+    },
+    {
+    "title" : "Supercharged JavaScript Graphics",
+    "index_code" : "JavaScript",
+    "year_published" : 2011,
+    "number_pages" : 260,
+    "time_stamp" : "2011-11-12",
+    "tags" : ["JavaScript"]
+    },
+    {
+    "title" : "HTML5 Canvas",
+    "index_code" : "HTML5",
+    "year_published" : 2011,
+    "number_pages" : 628,
+    "time_stamp" : "2011-11-12",
+    "tags" : ["HTML5", "canvas"]
+    },
+    {
+    "title" : "Pro Git",
+    "index_code" : "Software Dev",
+    "year_published" : 2009,
+    "number_pages" : 265,
+    "time_stamp" : "2011-11-12",
+    "tags" : ["Git", "github", "version control"]
+    },
+    {
+    "title" : "Web 2.0 Mashups - How to do everything",
+    "index_code" : "Web 2.0",
+    "year_published" : 2008,
+    "number_pages" : 303,
+    "time_stamp" : "2011-11-12",
+    "tags" : ["Web Programming", "Mashups"]
+    },
+    {
+    "title" : "VBScript Pocket Reference",
+    "index_code" : "VBScript",
+    "year_published" : 2001,
+    "number_pages" : 118,
+    "time_stamp" : "2011-11-12",
+    "tags" : ["VBScript", "pocket reference"]
+    },
+    {
+    "title" : "Unix in a Nutshell",
+    "index_code" : "Unix",
+    "year_published" : 1994,
+    "number_pages" : 250,
+    "time_stamp" : "2011-11-12",
+    "tags" : ["Unix"]
+    },
+    {
+    "title" : "Dont Make Me Think",
+    "index_code" : "UI Design",
+    "year_published" : 2000,
+    "number_pages" : 195,
+    "time_stamp" : "2011-11-12",
+    "tags" : ["UI", "UX"]
+    },
+    {
+    "title" : "The Gurus Guide to Transact-SQL",
+    "index_code" : "SQL",
+    "year_published" : 2000,
+    "number_pages" : 551,
+    "time_stamp" : "2011-11-12",
+    "tags" : ["T-SQL", "Databases", "SQL"]
+    },
+    {
+    "title" : "SQL Pocket Guide",
+    "index_code" : "SQL",
+    "year_published" : 2004,
+    "number_pages" : 154,
+    "time_stamp" : "2011-11-12",
+    "tags" : ["SQL", "Databases", "pocket guide"]
+    },
+    {
+    "title" : "SQL Cookbook",
+    "index_code" : "SQL",
+    "year_published" : 2005,
+    "number_pages" : 595,
+    "time_stamp" : "2011-11-12",
+    "tags" : ["SQL", "Databases", "cookbook"]
+    },
+    {
+    "title" : "The Pragmatic Programmer",
+    "index_code" : "Software Dev",
+    "year_published" : 2000,
+    "number_pages" : 321,
+    "time_stamp" : "2011-11-12",
+    "tags" : ["Pragmatism", "Refactoring", "Programming"]
+    },
+    {
+    "title" : "The Passionate Programmer",
+    "index_code" : "Software Dev",
+    "year_published" : 2009,
+    "number_pages" : 199,
+    "time_stamp" : "2011-11-12",
+    "tags" : ["Craftmanship", "Programming"]
+    },
+    {
+    "title" : "The Mythical Man Month",
+    "index_code" : "Software Dev",
+    "year_published" : 1995,
+    "number_pages" : 322,
+    "time_stamp" : "2011-11-12",
+    "tags" : ["Computer Science"]
+    },
+    {
+    "title" : "Test Driven Development - A Practical Guide",
+    "index_code" : "Software Dev",
+    "year_published" : 2003,
+    "number_pages" : 562,
+    "time_stamp" : "2011-11-12",
+    "tags" : ["Testing", "TDD"]
+    },
+    {
+    "title" : "Succeeding with Agile",
+    "index_code" : "Software Dev",
+    "year_published" : 2010,
+    "number_pages" : 475,
+    "time_stamp" : "2011-11-12",
+    "tags" : ["Agile", "Scrum"]
+    },
+    {
+    "title" : "Software Project Secrets - Why Software Projects Fail",
+    "index_code" : "Software Dev",
+    "year_published" : 2005,
+    "number_pages" : 166,
+    "time_stamp" : "2011-11-12",
+    "tags" : ["Project Management", "Engineering"]
+    },
+    {
+    "title" : "Programming Interviews Exposed",
+    "index_code" : "Software Dev",
+    "year_published" : 2007,
+    "number_pages" : 237,
+    "time_stamp" : "2011-11-12",
+    "tags" : ["Programming", "Interviews"]
+    },
+    {
+    "title" : "Hackers and Painters: Big Ideas From the Computer Age",
+    "index_code" : "Software Dev",
+    "year_published" : 2004,
+    "number_pages" : 258,
+    "time_stamp" : "2011-11-12",
+    "tags" : ["Programming", "Engineering"]
+    },
+    {
+    "title" : "Code Complete",
+    "index_code" : "Software Dev",
+    "year_published" : 2004,
+    "number_pages" : 914,
+    "time_stamp" : "2011-11-12",
+    "tags" : ["Programming", "Engineering"]
+    },
+    {
+    "title" : "Ruby Cookbook",
+    "index_code" : "Ruby",
+    "year_published" : 2006,
+    "number_pages" : 873,
+    "time_stamp" : "2011-11-12",
+    "tags" : ["Ruby", "Programming"]
+    },
+    {
+    "title" : "Rails Cookbook",
+    "index_code" : "Ruby",
+    "year_published" : 2007,
+    "number_pages" : 514,
+    "time_stamp" : "2011-11-12",
+    "tags" : ["Ruby", "Rails", "Programming"]
+    },
+    {
+    "title" : "Programming Ruby",
+    "index_code" : "Ruby",
+    "year_published" : 2005,
+    "number_pages" : 830,
+    "time_stamp" : "2011-11-12",
+    "tags" : ["Ruby", "Programming"]
+    },
+    {
+    "title" : "Beginning Ruby",
+    "index_code" : "Ruby",
+    "year_published" : 2007,
+    "number_pages" : 631,
+    "time_stamp" : "2011-11-12",
+    "tags" : ["Ruby", "Programming"]
+    },
+    {
+    "title" : "Beginning Rails",
+    "index_code" : "Ruby",
+    "year_published" : 2007,
+    "number_pages" : 361,
+    "time_stamp" : "2011-11-12",
+    "tags" : ["Ruby", "Rails", "Programming"]
+    },
+    {
+    "title" : "Learning Python",
+    "index_code" : "Python",
+    "year_published" : 2007,
+    "number_pages" : 700,
+    "time_stamp" : "2011-11-12",
+    "tags" : ["Python", "Programming"]
+    },
+    {
+    "title" : "PHP 5 Recipes - A Problem-Solution Approach",
+    "index_code" : "PHP",
+    "year_published" : 2005,
+    "number_pages" : 646,
+    "time_stamp" : "2011-11-12",
+    "tags" : ["PHP", "MySQL"]
+    },
+    {
+    "title" : "Programming Perl",
+    "index_code" : "Perl",
+    "year_published" : 1996,
+    "number_pages" : 645,
+    "time_stamp" : "2011-11-12",
+    "tags" : ["Perl", "Scripting", "Linux", "Shell programming"]
+    },
+    {
+    "title" : "Perl Cookbook",
+    "index_code" : "Perl",
+    "year_published" : 1998,
+    "number_pages" : 757,
+    "time_stamp" : "2011-11-12",
+    "tags" : ["Perl", "Scripting", "Linux", "Shell programming"]
+    },
+    {
+    "title" : "Learning Perl",
+    "index_code" : "Perl",
+    "year_published" : 1997,
+    "number_pages" : 271,
+    "time_stamp" : "2011-11-12",
+    "tags" : ["Perl", "Scripting", "Linux", "Shell programming"]
+    },
+    {
+    "title" : "Oracle SQL",
+    "index_code" : "Oracle",
+    "year_published" : 2008,
+    "number_pages" : 627,
+    "time_stamp" : "2011-11-12",
+    "tags" : ["PL/SQL", "Oracle", "Databases", "SQL"]
+    },
+    {
+    "title" : "Linux in a Nutshell",
+    "index_code" : "Linux",
+    "year_published" : 2009,
+    "number_pages" : 917,
+    "time_stamp" : "2011-11-12",
+    "tags" : ["Linux", "nutshell"]
+    },
+    {
+    "title" : "Linux Command Line and Shell Scripting Bible",
+    "index_code" : "Linux",
+    "year_published" : 2008,
+    "number_pages" : 809,
+    "time_stamp" : "2011-11-12",
+    "tags" : ["Linux", "Shell scripting"]
+    },
+    {
+    "title" : "Learning jQuery 1.3",
+    "index_code" : "JavaScript",
+    "year_published" : 2009,
+    "number_pages" : 421,
+    "time_stamp" : "2011-11-12",
+    "tags" : ["jQuery", "JavaScript"]
+    },
+    {
+    "title" : "jQuery UI 1.6 - The User Interface Library for jQuery",
+    "index_code" : "JavaScript",
+    "year_published" : 2009,
+    "number_pages" : 420,
+    "time_stamp" : "2011-11-12",
+    "tags" : ["jQuery", "JavaScript"]
+    },
+    {
+    "title" : "jQuery Cookbook",
+    "index_code" : "JavaScript",
+    "year_published" : 2009,
+    "number_pages" : 451,
+    "time_stamp" : "2011-11-12",
+    "tags" : ["jQuery", "JavaScript"]
+    },
+    {
+    "title" : "JavaScript and DOM Scripting",
+    "index_code" : "JavaScript",
+    "year_published" : 2009,
+    "number_pages" : 764,
+    "time_stamp" : "2011-11-12",
+    "tags" : ["JavaScript", "DOM scripting"]
+    },
+    {
+    "title" : "JavaScript & DHTML Cookbook",
+    "index_code" : "JavaScript",
+    "year_published" : 2007,
+    "number_pages" : 582,
+    "time_stamp" : "2011-11-12",
+    "tags" : ["JavaScript", "Dynamic HTML", "cookbook"]
+    },
+    {
+    "title" : "JavaScript - The Definitive Guide",
+    "index_code" : "JavaScript",
+    "year_published" : 1998,
+    "number_pages" : 776,
+    "time_stamp" : "2011-11-12",
+    "tags" : ["JavaScript", "guide"]
+    },
+    {
+    "title" : "Beginning Google Maps Mashups",
+    "index_code" : "JavaScript",
+    "year_published" : 2009,
+    "number_pages" : 390,
+    "time_stamp" : "2011-11-12",
+    "tags" : ["Mashups", "Google Maps"]
+    },
+    {
+    "title" : "HTML5: Up and Running",
+    "index_code" : "HTML5",
+    "year_published" : 2010,
+    "number_pages" : 205,
+    "time_stamp" : "2011-11-12",
+    "tags" : ["HTML5", "HTML"]
+    },
+    {
+    "title" : "Your Brain : The Missing Manual",
+    "index_code" : "General",
+    "year_published" : 2008,
+    "number_pages" : 452,
+    "time_stamp" : "2011-11-12",
+    "tags" : ["Computer Science"]
+    },
+    {
+    "title" : "How Computers Work",
+    "index_code" : "General",
+    "year_published" : 2008,
+    "number_pages" : 261,
+    "time_stamp" : "2011-11-12",
+    "tags" : ["Computers"]
+    },
+    {
+    "title" : "Dynamic HTML - The Definitive Guide",
+    "index_code" : "DHTML",
+    "year_published" : 1998,
+    "number_pages" : 1073,
+    "time_stamp" : "2011-11-12",
+    "tags" : ["Dynamic HTML", "guide"]
+    },
+    {
+    "title" : "More Joel on Software",
+    "index_code" : "Software Dev",
+    "year_published" : 2008,
+    "number_pages" : 305,
+    "time_stamp" : "2011-11-12",
+    "tags" : ["Joel"]
+    },
+    {
+    "title" : "Joel on Software",
+    "index_code" : "Software Dev",
+    "year_published" : 2004,
+    "number_pages" : 362,
+    "time_stamp" : "2011-11-12",
+    "tags" : ["Joel"]
+    },
+    {
+    "title" : "GUI Bloopers 2.0",
+    "index_code" : "UI Design",
+    "year_published" : 2008,
+    "number_pages" : 407,
+    "time_stamp" : "2011-11-12",
+    "tags" : ["UI", "UX"]
+    },
+    {
+    "title" : "Cascading Style Sheets - The Def. Guide",
+    "index_code" : "CSS",
+    "year_published" : 2000,
+    "number_pages" : 453,
+    "time_stamp" : "2011-11-12",
+    "tags" : ["CSS", "guide"]
+    },
+    {
+    "title" : "Beginning CSS Web Development",
+    "index_code" : "CSS",
+    "year_published" : 2006,
+    "number_pages" : 413,
+    "time_stamp" : "2011-11-12",
+    "tags" : ["CSS", "web development"]
+    },
+    {
+    "title" : "Visual C# 2010 Recipes",
+    "index_code" : "C#",
+    "year_published" : 2010,
+    "number_pages" : 987,
+    "time_stamp" : "2011-11-12",
+    "tags" : ["C#", "recipes"]
+    },
+    {
+    "title" : "Pro C# 2010 and the .NET 4 Platform",
+    "index_code" : "C#",
+    "year_published" : 2010,
+    "number_pages" : 1712,
+    "time_stamp" : "2011-11-12",
+    "tags" : ["C#", "ASP.NET"]
+    },
+    {
+    "title" : "Dreaming in Code",
+    "index_code" : "Business Dev",
+    "year_published" : 2007,
+    "number_pages" : 403,
+    "time_stamp" : "2011-11-12",
+    "tags" : ["Coding"]
+    },
+    {
+    "title" : "Programming ASP.NET AJAX",
+    "index_code" : "ASP.NET",
+    "year_published" : 2007,
+    "number_pages" : 454,
+    "time_stamp" : "2011-11-12",
+    "tags" : ["ASP.NET", "AJAX"]
+    },
+    {
+    "title" : "Learning ASP.NET 2.0 with AJAX",
+    "index_code" : "ASP.NET",
+    "year_published" : 2007,
+    "number_pages" : 498,
+    "time_stamp" : "2011-11-12",
+    "tags" : ["ASP.NET", "AJAX"]
+    },
+    {
+    "title" : "ADO.NET Cookbook",
+    "index_code" : "ADO.NET",
+    "year_published" : 2003,
+    "number_pages" : 605,
+    "time_stamp" : "2011-11-12",
+    "tags" : ["ADO.NET", "ASP.NET"]
+    },
+    {
+    "title" : "ADO.NET 4 with C# 2010",
+    "index_code" : "ADO.NET",
+    "year_published" : 2011,
+    "number_pages" : 712,
+    "time_stamp" : "2011-11-12",
+    "tags" : ["ADO.NET", "ASP.NET"]
+    }
+]

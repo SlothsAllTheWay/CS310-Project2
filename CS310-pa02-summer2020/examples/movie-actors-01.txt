@@ -1,0 +1,23 @@
+| => javac -cp .:json-simple-1.1.1.jar *.java; java -cp .:json-simple-1.1.1.jar cs310pa2 -name title -keyword actors -max 12 json/movies.json
+Welcome to CS310 PA02: Tree Dictionary
+Read 12 records from json/movies.json
+Options:
+	f: find records
+	p: print the tree
+	q: quit
+> p
+> Tree Dictionary: {[Aaron Kwok (1)], [Aleksey Rozin (1)], [Annalise Basso (1)], [Anupam Kher (1)], [Billy Zane (1)], [Chadwick Boseman (1)], [Deirdre O'Connell (1)], [Eddie Redmayne (1)], [Farhad Abadinejad (1)], [Hugo Armstrong (1)], [Jackson Rathbone (1)], [Jacqueline Bisset (1)], [Jasmina Ali (1)], [Josh Hartnett (1)], [Jérémie Renier (1)], [Kaho Minami (1)], [Kristin Scott Thomas (1)], [Lupita Nyong'o (1)], [Maisie Williams (1)], [Marine Vacth (1)], [Maryana Spivak (1)], [Matthew Shear (1)], [Matvey Novikov (1)], [Michael B. Jordan (1)], [Naseeruddin Shah (1)], [Patricia Clarkson (1)], [Rozita Assadollahy (1)], [Shinelle Azoroh (1)], [Shinobu Terajima (1)], [Sidharth Malhotra (1)], [Taylor James (1)], [Timothy Spall (1)], [Tom Hiddleston (1)], [William Feng (1)], [Zanilia Zhao (1)], [Zosia Mamet (1)]}
+Options:
+	f: find records
+	p: print the tree
+	q: quit
+> f
+> Provide keywords (seprate by ,): Maisie Williams
+> Found 1 records
+> ... [Grottmannen Dug, (Tom Hiddleston, Eddie Redmayne, Maisie Williams)]
+Options:
+	f: find records
+	p: print the tree
+	q: quit
+> q
+Bye~

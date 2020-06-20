@@ -1,0 +1,64 @@
+| => javac -cp .:json-simple-1.1.1.jar *.java; java -cp .:json-simple-1.1.1.jar  cs310pa2 -name title -keyword tags  ./json/tech-books.json 
+Welcome to CS310 PA02: Tree Dictionary
+Read 198 records from ./json/tech-books.json
+Options:
+	f: find records
+	p: print the tree
+	q: quit
+> p
+> Tree Dictionary: {[ (31)], [ADO.NET (2)], [AJAX (2)], [ALM (1)], [ASP.NET (14)], [AWS (1)], [Advice (1)], [Agile (4)], [Analytics (1)], [Angular (1)], [AngularJS (2)], [Apache (2)], [Architecture (1)], [Backbone.js (2)], [Best Practices (2)], [Bitbucket (1)], [Bootcamp (1)], [Bootstrap 4 (2)], [Bower (1)], [Business (8)], [Business Intelligence (1)], [C# (8)], [CMS (1)], [CSS (9)], [CSS3 (5)], [Career (3)], [Careers (5)], [Cassandra (1)], [Charts (1)], [Cloud9 (1)], [Coding (8)], [CoffeeScript (1)], [Communication (4)], [Compass (1)], [Computer Science (2)], [Computers (1)], [Cordova (2)], [Craftmanship (1)], [Craftsmanship (3)], [DOM scripting (1)], [Data (2)], [Data Science (1)], [Data science (1)], [Databases (6)], [Design (5)], [Design Patterns (1)], [Development (5)], [Dry (1)], [Dynamic HTML (2)], [Eclipse (2)], [Engineering (3)], [Entrepreneur (2)], [ExpressJS (1)], [Facebook (1)], [Framework (1)], [Git (1)], [Google (2)], [Google Maps (1)], [Graphs (1)], [Grit (1)], [Grunt (1)], [HTML (5)], [HTML5 (7)], [Hadoop (5)], [Happiness (1)], [Hardware (1)], [Head First (2)], [Heroku (2)], [Hive (2)], [Interview (3)], [Interviews (6)], [Ionic (1)], [Java (4)], [JavaScript (29)], [Job Search (7)], [Joel (2)], [LESS (1)], [LiceCycle (1)], [LinkedIn (1)], [Linux (10)], [MEAN (1)], [MS SQL Server (1)], [MVC (2)], [Maps (1)], [Mashups (2)], [Microsoft (1)], [Mobile App (2)], [MongoDB (2)], [MySQL (5)], [Ninja (1)], [NoSQL (1)], [Node.js (2)], [NodeJS (3)], [OOP (3)], [Object Oriented (1)], [Open Source (2)], [Oracle (2)], [PHP (5)], [PL/SQL (2)], [Perl (6)], [Pig (1)], [Pocket Reference (2)], [Postgres (1)], [Pragmatism (1)], [Presentations (1)], [Principles (1)], [Programming (46)], [Project Management (2)], [Psychology (2)], [Public Speaking (1)], [Python (13)], [R (4)], [RPi (3)], [RStudio (1)], [Rails (6)], [Raspberry Pi (3)], [Razor (1)], [Recipes (1)], [Refactoring (1)], [Responsive Web Design (1)], [Ruby (10)], [Ruby on Rails (1)], [SASS (1)], [SPA (1)], [SQL (5)], [Scala (2)], [Scripting (3)], [Scrum (4)], [Self-Help (2)], [Shell programming (3)], [Shell scripting (1)], [Side Gig (1)], [Smashing (1)], [Social Media (1)], [Software (5)], [Spark (4)], [Startup (1)], [T-SQL (1)], [TDD (1)], [TED (1)], [Tableau (1)], [Templates (1)], [Testing (1)], [Tutorial (1)], [Twitter (1)], [TypeScript (1)], [UI (3)], [UX (3)], [Ubuntu (1)], [Unix (1)], [User Experience (1)], [VBScript (1)], [Visual Studio (3)], [Visualization (1)], [Web (1)], [Web Development (2)], [Web Programming (4)], [Web scraping (1)], [WordPress (1)], [Yeoman (1)], [canvas (1)], [cookbook (2)], [data (1)], [editor (1)], [github (1)], [guide (3)], [informational (1)], [jQuery (7)], [npm (2)], [nutshell (1)], [pocket guide (1)], [pocket reference (1)], [recipes (1)], [version control (1)], [vi (2)], [vim (2)], [web development (1)]}
+Options:
+	f: find records
+	p: print the tree
+	q: quit
+> f
+> Provide keywords (seprate by ,): JavaScript, HTML5
+> Found 5 records
+> ... [Murach's HTML5/CSS3, 3rd Edition, (HTML5, CSS3, JavaScript, Bootstrap 4)]
+> ... [Murach's JavaScript/jQuery, 3rd Edition, (HTML5, CSS3, JavaScript, jQuery, Bootstrap 4)]
+> ... [Programming in HTML5 with JavaScript and CSS3 (Exam Ref), (JavaScript, HTML5, CSS3, Programming)]
+> ... [Programming in HTML5 with JavaScript and CSS3 (Training Guide), (JavaScript, HTML5, CSS3, Programming)]
+> ... [The Definitive Guide to HTML5, (HTML5, CSS3, JavaScript)]
+Options:
+	f: find records
+	p: print the tree
+	q: quit
+> f
+> Provide keywords (seprate by ,): JavaScript
+> Found 29 records
+> ... [Murach's HTML5/CSS3, 3rd Edition, (HTML5, CSS3, JavaScript, Bootstrap 4)]
+> ... [Murach's JavaScript/jQuery, 3rd Edition, (HTML5, CSS3, JavaScript, jQuery, Bootstrap 4)]
+> ... [Ionic in Action, (Ionic, Cordova, Mobile App, HTML, CSS, JavaScript)]
+> ... [Apache Cordova in Action, (Apache, Cordova, Mobile App, HTML, CSS, JavaScript)]
+> ... [JavaScript Frameworks for Modern Web Dev, (JavaScript, NodeJS, npm, Bower, Grunt, Yeoman)]
+> ... [You Dont Know JS - Async &amp; Performance, (JavaScript, Programming)]
+> ... [You Dont Know JS - Types &amp; Grammar, (JavaScript, Programming)]
+> ... [You Dont Know JS - this &amp; Object Prototypes, (JavaScript, Programming)]
+> ... [You Dont Know JS - Scope &amp; Closures, (JavaScript, Programming)]
+> ... [You Dont Know JS - Up &amp; Going, (JavaScript, Programming)]
+> ... [Programming in HTML5 with JavaScript and CSS3 (Exam Ref), (JavaScript, HTML5, CSS3, Programming)]
+> ... [Programming in HTML5 with JavaScript and CSS3 (Training Guide), (JavaScript, HTML5, CSS3, Programming)]
+> ... [Web Development Recipes, (HTML, CSS, JavaScript, Recipes)]
+> ... [Pro jQuery 2.0, (jQuery, JavaScript)]
+> ... [Node.js in Action, (NodeJS, npm, JavaScript)]
+> ... [Single Page Web Applications, (SPA, JavaScript, HTML, CSS)]
+> ... [Backbone.js Cookbook, (Backbone.js, JavaScript, Templates)]
+> ... [Smashing CoffeeScript, (CoffeeScript, JavaScript)]
+> ... [Maintainable JavaScript, (JavaScript, Web Programming)]
+> ... [Secrets of the JavaScript Ninja, (JavaScript, Web Programming, Ninja)]
+> ... [JavaScript and jQuery, (JavaScript, jQuery)]
+> ... [The Definitive Guide to HTML5, (HTML5, CSS3, JavaScript)]
+> ... [Supercharged JavaScript Graphics, (JavaScript)]
+> ... [Learning jQuery 1.3, (jQuery, JavaScript)]
+> ... [jQuery UI 1.6 - The User Interface Library for jQuery, (jQuery, JavaScript)]
+> ... [jQuery Cookbook, (jQuery, JavaScript)]
+> ... [JavaScript and DOM Scripting, (JavaScript, DOM scripting)]
+> ... [JavaScript & DHTML Cookbook, (JavaScript, Dynamic HTML, cookbook)]
+> ... [JavaScript - The Definitive Guide, (JavaScript, guide)]
+Options:
+	f: find records
+	p: print the tree
+	q: quit
+> q
+Bye~
+
