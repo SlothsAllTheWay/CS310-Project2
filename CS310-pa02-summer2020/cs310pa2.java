@@ -121,6 +121,9 @@ class cs310pa2
 		System.out.println(record);
 	}
 	
+	System.out.println(dic.find("ember")!=null);
+	
+	
     return true;
   }
 
