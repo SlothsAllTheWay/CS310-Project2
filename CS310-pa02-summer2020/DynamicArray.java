@@ -66,7 +66,8 @@ public class DynamicArray<T> implements Iterable<T>
 
     void delete() //delete the last value in the array
   	{
-		size--;
+		if(!is_empty())
+			array[--size]=null;
   	}
 
   	void delete(int loc) //delete element at index "loc"
@@ -85,7 +86,7 @@ public class DynamicArray<T> implements Iterable<T>
 			throw new IndexOutOfBoundsException();
 	}
 
-    boolean is_empty(){ return true;} //replace true
+    boolean is_empty(){ return size==0;} //replace true
 	
 	public Iterator<T> iterator(){
 		return new Iterator<T>(){
