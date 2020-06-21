@@ -30,7 +30,7 @@ public class TreeDictionary<T extends Comparable<T>>
 		return newNode;
 	}
 	
-	private Node<T> insert(Node<T> node, Record<T> record, T keyword){
+	/*private Node<T> insert(Node<T> node, Record<T> record, T keyword){
 		if(node==null){
 			Node<T> newNode=new Node(keyword);
 			newNode.records.insert(record);
@@ -67,9 +67,9 @@ public class TreeDictionary<T extends Comparable<T>>
 		
 		return node;
 			
-	}
+	}*/
 	
-	/*private Node<T> insert(Node<T> node, Record<T> record, T keyword){
+	private Node<T> insert(Node<T> node, Record<T> record, T keyword){
 		if(node==null){
 			Node<T> newNode=new Node(keyword);
 			newNode.records.insert(record);
@@ -86,7 +86,7 @@ public class TreeDictionary<T extends Comparable<T>>
 		
 		return node;
 			
-	}*/
+	}
 
     public void insert(Record<T> record) //20 points + 10 bonus (AVL insertion)
     {
@@ -204,9 +204,9 @@ public class TreeDictionary<T extends Comparable<T>>
 			return node;
 		
 		if(keyword.compareTo(node.keyword)<0)
-			return node.left;
+			return find(node.left, keyword);
 		
-		return node.right;
+		return find(node.right, keyword);
 	}
 
     private Node<T> find(T keyword) //10 points
@@ -237,18 +237,10 @@ public class TreeDictionary<T extends Comparable<T>>
 		tree=find_then_build(keyword);
 	  }
 	  
-	  /*if(!keywords.is_empty())
-		  tree.find(keywords);
+	  Node<T> node=tree.find(keywords.last());
 	  
-	  if(tree.root!=null)
-		return tree.root.records;*/
-	  
-	  try{
-		  return tree.find(keywords.last()).records;
-	  }
-	  catch(NullPointerException ex){
-		  
-	  }
+	  if(node!=null)
+		  return node.records;
 	  
 	  return null; //return null when no records are found
     }

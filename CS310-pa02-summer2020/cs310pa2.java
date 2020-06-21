@@ -121,8 +121,7 @@ class cs310pa2
 		System.out.println(record);
 	}
 	
-	System.out.println(dic.find("ember")!=null);
-	
+	//System.out.println(dic.find(new LinkedList<String>(new String[]{"ember"}))!=null);
 	
     return true;
   }
