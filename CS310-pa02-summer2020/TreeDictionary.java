@@ -226,18 +226,26 @@ public class TreeDictionary<T extends Comparable<T>>
 
 	  //hint: use find_then_build
 	  
+	  TreeDictionary<T> backupTree=new TreeDictionary<T>();
+	  
+	  backupTree.root=root;
+	  
 	  TreeDictionary<T> tree=new TreeDictionary<T>();
 	  
-	  DynamicArray<Record<T>> records;
 	  
 	  for(T keyword : keywords){
 		if(keyword==keywords.last())
 			break;
 		  
 		tree=find_then_build(keyword);
+		
+		if(tree!=null)
+			root=tree.root;
 	  }
 	  
-	  Node<T> node=tree.find(keywords.last());
+	  Node<T> node=find(keywords.last());
+	  
+	  root=backupTree.root;
 	  
 	  if(node!=null)
 		  return node.records;
